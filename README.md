@@ -1,7 +1,5 @@
 # CAPTCHA Pipeline (Go)
 
-**Repository:** [github.com/ScraperHub/how-we-solve-8000-captchas-per-second](https://github.com/ScraperHub/how-we-solve-8000-captchas-per-second)
-
 Go CAPTCHA-solve pipeline with bounded queue, worker pool, pluggable solvers,
 and metrics. Shows how production architecture reaches 8,000 solves/sec.
 
@@ -87,4 +85,4 @@ the actual solve, which is the point: the control plane is not the bottleneck.
 copies of the file introduced at each article step. Build and run from `final/`.
 
 ---
-Copyright 2026 Crawlbase https://crawlbase.com/
+Copyright 2026 [Crawlbase](https://crawlbase.com/)
